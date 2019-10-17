@@ -124,6 +124,11 @@ body{
 	list-style-type: none;
 }
 
+
+.links-ul{
+	line-height: 32px;
+}
+
 @media only screen and (max-width: 1000px) {
 
 	.img-container {
