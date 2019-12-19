@@ -136,3 +136,28 @@ body{
 	}
 
 }
+
+
+@media only screen and (max-width: 700px) {
+
+	.inner-container {
+		display: block;
+	}
+
+	.img-container {
+     	width: unset; 
+     	min-width: unset; 
+    	padding-left: 0;
+	}
+
+	.links-container {
+
+		text-align: center;
+	}
+
+	.links-ul {
+		padding-left: 0;
+	}
+
+
+}
