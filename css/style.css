@@ -145,6 +145,7 @@ body{
 	}
 
 	.img-container {
+		margin-top: 5vh;
      	width: unset; 
      	min-width: unset; 
     	padding-left: 0;
@@ -157,6 +158,10 @@ body{
 
 	.links-ul {
 		padding-left: 0;
+	}
+
+	.title {
+		font-weight: bold;
 	}
 
 
