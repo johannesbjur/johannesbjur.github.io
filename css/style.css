@@ -142,6 +142,7 @@ body{
 
 	.middle-container {
 		margin-top: 50px;
+		display: unset;
 	}
 
 	.inner-container {
